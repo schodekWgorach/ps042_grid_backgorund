@@ -44,3 +44,12 @@ body {
     grid-column: 3/4;
     grid-row: 3/5;
 }
+
+.pismo {
+    grid-column: 2/6;
+    grid-row: 2/3;
+    text-align: center;
+    font-size: calc(1rem + 0.125vw);
+    color: white;
+    font-family: 'Pismo', sans-serif;
+}
