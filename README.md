@@ -6,13 +6,11 @@ W projekcie zastosowano następujące technologie:
 
 - HTML  
 - CSS (Grid Layout)  
-- JavaScript (opcjonalnie, jeśli jest używany)
 
 ## Funkcje  
 - Nowoczesny układ siatki z wykorzystaniem CSS Grid.  
 - Dynamiczne rozmieszczenie i stylizacja elementów.  
 - Efektowne tło z grafiką.  
-- Pełna responsywność na różnych urządzeniach.
 
 ## Jak zacząć  
 1. Sklonuj repozytorium.  
