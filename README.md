@@ -4,8 +4,8 @@ Witamy w projekcie Grid Background! Ta strona prezentuje nowoczesny układ siatk
 ## Wykorzystane technologie  
 W projekcie zastosowano następujące technologie:
 
-- HTML  
-- CSS (Grid Layout)  
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 ## Funkcje  
 - Nowoczesny układ siatki z wykorzystaniem CSS Grid.  
