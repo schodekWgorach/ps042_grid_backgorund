@@ -1,7 +1,3 @@
-Oczywiście! Oto przykładowy opis projektu w stylu podanego przez Ciebie, dostosowany do strony z siatką i tłem:
-
----
-
 ## Opis projektu  
 Witamy w projekcie Grid Background! Ta strona prezentuje nowoczesny układ siatki z efektownym tłem oraz responsywnym rozmieszczeniem elementów.
 
