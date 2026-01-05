@@ -3,7 +3,8 @@
 }
 
 body {
-    --gap: calc(0.5rem + 0.125vw);
+    background-color: gray;
+    --gap: calc(0.01rem + 0.125vw);
     margin: 0;
     block-size: 1024px;
     display: grid;
